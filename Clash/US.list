@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,notebooklm.google.com
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
+DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
