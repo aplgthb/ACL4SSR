@@ -1,20 +1,20 @@
 # Perplexity
-HOST-SUFFIX,perplexity.ai
-HOST-KEYWORD,perplexity
-HOST-SUFFIX,poe.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
+DOMAIN-SUFFIX,poe.com
 
 # WhatsApp
-HOST-SUFFIX,whatsapp.biz,Whatsapp
-HOST-SUFFIX,whatsapp.com,Whatsapp
-HOST-SUFFIX,whatsapp.net,Whatsapp
-HOST-KEYWORD,whatsapp,Whatsapp
+DOMAIN-SUFFIX,whatsapp.biz,Whatsapp
+DOMAIN-SUFFIX,whatsapp.com,Whatsapp
+DOMAIN-SUFFIX,whatsapp.net,Whatsapp
+DOMAIN-KEYWORD,whatsapp,Whatsapp
 
 # Youtube
-HOST-SUFFIX,youtube.com,YouTube
-HOST-SUFFIX,youtube.com.hk,YouTube
-HOST-SUFFIX,youtube.hk,YouTube
-HOST-KEYWORD,youtube,YouTube
+DOMAIN-SUFFIX,youtube.com,YouTube
+DOMAIN-SUFFIX,youtube.com.hk,YouTube
+DOMAIN-SUFFIX,youtube.hk,YouTube
+DOMAIN-KEYWORD,youtube,YouTube
 
 # Linkedin
-HOST-SUFFIX,linkedin.com,LinkedIn
-HOST-KEYWORD,linkedin,linkedin
+DOMAIN-SUFFIX,linkedin.com,LinkedIn
+DOMAIN-KEYWORD,linkedin,linkedin
