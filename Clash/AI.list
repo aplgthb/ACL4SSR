@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,www.google
 
 # OpenAI
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
 
 # Claude
 DOMAIN-SUFFIX,anthropic.com
