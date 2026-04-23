@@ -1,5 +1,12 @@
+# Google
 DOMAIN,gemini.google.com
 DOMAIN,notebooklm.google.com
 DOMAIN,aistudio.google.com
 DOMAIN-KEYWORD,www.google
+
+# OpenAI
 DOMAIN-SUFFIX,chatgpt.com
+
+# Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
