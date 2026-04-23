@@ -22,9 +22,25 @@ DOMAIN-SUFFIX,linkedin.com,LinkedIn
 DOMAIN-KEYWORD,linkedin,linkedin
 
 # Facebook
-DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.com,facebook
 
 # Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,cdninstagram.com,ins
+DOMAIN-SUFFIX,instagram.com,ins
+DOMAIN-SUFFIX,instagr.am,ins
+
+# Twitter
+DOMAIN-SUFFIX,x.com,twitter
+
+# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+
+# News & Mag
+DOMAIN-SUFFIX,wsj.com,wsj
+DOMAIN-SUFFIX,economist.com,economist
+DOMAIN-SUFFIX,hbr.org,hbr
