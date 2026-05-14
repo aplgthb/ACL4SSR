@@ -225,7 +225,7 @@ rule-providers:
     type: http
 
 rules:
-  - "RULE-SET,YouTube,📹 Youtube
+  - "RULE-SET,YouTube,📹 Youtube"
   - "RULE-SET,HKAPP,📹 HKAPP"
   - "RULE-SET,AIAPP,💬 AIAPP"
 
