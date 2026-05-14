@@ -3,19 +3,12 @@
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,perplexity
-DOMAIN-SUFFIX,poe.com
 
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.biz,Whatsapp
 DOMAIN-SUFFIX,whatsapp.com,Whatsapp
 DOMAIN-SUFFIX,whatsapp.net,Whatsapp
 DOMAIN-KEYWORD,whatsapp,Whatsapp
-
-# Youtube
-DOMAIN-SUFFIX,youtube.com,YouTube
-DOMAIN-SUFFIX,youtube.com.hk,YouTube
-DOMAIN-SUFFIX,youtube.hk,YouTube
-DOMAIN-KEYWORD,youtube,YouTube
 
 # Linkedin
 DOMAIN-SUFFIX,linkedin.com,LinkedIn
