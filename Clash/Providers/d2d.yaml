@@ -1,3 +1,5 @@
+# https://raw.githubusercontent.com/aplgthb/ACL4SSR/refs/heads/day2day/Clash/Providers/d2d.yaml
+
 proxy-groups:
   - name: 🚀 节点选择
     type: select
